@@ -1,0 +1,6 @@
+D:\MartinShkodrov\deskumbin\deskumbin\bin\Debug\deskumbin.exe.config
+D:\MartinShkodrov\deskumbin\deskumbin\bin\Debug\deskumbin.exe
+D:\MartinShkodrov\deskumbin\deskumbin\bin\Debug\deskumbin.pdb
+D:\MartinShkodrov\deskumbin\deskumbin\obj\Debug\deskumbin.csprojResolveAssemblyReference.cache
+D:\MartinShkodrov\deskumbin\deskumbin\obj\Debug\deskumbin.exe
+D:\MartinShkodrov\deskumbin\deskumbin\obj\Debug\deskumbin.pdb
